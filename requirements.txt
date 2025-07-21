@@ -2,3 +2,8 @@ scrapy
 beautifulsoup4
 selenium
 playwright
+requests
+pandas
+fake-useragent
+# Additional libraries can be added below as needed
+# e.g., numpy, matplotlib, etc.     
